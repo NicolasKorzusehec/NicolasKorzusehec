@@ -2,11 +2,11 @@
 
 ## Acerca de mí
 
-¡Bienvenido a mi perfil de GitHub! Soy un Desarrollador Web Full Stack y Técnico en Energías Renovables apasionado por la tecnología y la sostenibilidad. Actualmente, soy estudiante de Ingeniería Civil en la Universidad de Buenos Aires, donde estoy explorando mi interés en la ingeniería y la construcción.
+Soy Desarrollador Web Full Stack y Técnico en Energías Renovables. Actualmente, estudio Ingeniería Civil en la Universidad de Buenos Aires.
 
-## Perfil Laboral
+Mi enfoque creativo y detallista me lleva a descomponer objetivos para encontrar soluciones efectivas. Soy resolutivo, siempre en búsqueda de superar desafíos de manera eficiente mediante la integración de herramientas y métodos para optimizar procesos y resultados. Practico el pensamiento lateral para ampliar mi perspectiva y aportar ideas innovadoras.
 
-Soy creativo y detallista, desarticulo el objetivo para llegar a soluciones simples y efectivas. Ejercito el pensamiento lateral para ampliar mi perspectiva y aportar mejores ideas. Disfruto trabajar en equipo, valoro el intercambio de conocimientos y los grandes resultados que se pueden lograr con una buena comunicación e intención en conjunto.
+Disfruto colaborar en equipo, valorando el intercambio de conocimientos y reconociendo los grandes resultados que surgen de una comunicación efectiva y una intención compartida.
 
 ## Formación Académica
 
@@ -25,16 +25,12 @@ Soy creativo y detallista, desarticulo el objetivo para llegar a soluciones simp
 ### V.LUX Cartelería Gráfica (Nov. 2021 - Actualidad)
 
 **Puesto:** Asistente Técnico / Operador
-
-**Tareas realizadas:**
 - Seguimiento de proyectos, diseño y desarrollo autónomo
 - Mantenimiento, puesta en marcha y manejo de Plasma CNC, Router CNC, Plotters de impresión y Plotters de corte
 - Confección de archivos de mecanizados, ploteos de corte, troquelado e impresión
 - Comunicación con el equipo de trabajo para coordinar tareas
 
-**Part-Time**
-
-**Programas utilizados:** CorelDRAW, Photoshop, Aspire, Pronest
+**Programas:** CorelDRAW, Photoshop, Aspire, Pronest
 
 ### Sithios SRL (Ene. 2020 - Abr. 2020)
 
@@ -45,9 +41,7 @@ Soy creativo y detallista, desarticulo el objetivo para llegar a soluciones simp
 - Visita a obra y elaboración de listas de tareas
 - Confección de plano de replanteo y revisión de planos
 
-**Pasantía**
-
-**Programas utilizados:** AutoCAD, Dropbox
+**Programas:** AutoCAD, Dropbox
 
 ## Habilidades y Programas
 
@@ -73,7 +67,8 @@ Soy creativo y detallista, desarticulo el objetivo para llegar a soluciones simp
 ## Otras Actividades
 
 - Participación en Olimpíada Matemática (OMA, 2015-2020)
-  - Alcanzando el Metropolitano (4 veces)
+  Alcanzando el:
+  - Metropolitano (4 veces)
   - Nacional (2 veces)
   - Selectivos (1 vez)
 
@@ -81,7 +76,7 @@ Soy creativo y detallista, desarticulo el objetivo para llegar a soluciones simp
 
 - Aficionado a la cocina y a la coctelería
 
-## Proyectos destacados
+<!--## Proyectos destacados
 
 ### [Nombre del Proyecto 1]
 
@@ -97,20 +92,18 @@ Soy creativo y detallista, desarticulo el objetivo para llegar a soluciones simp
 
 ## Estadísticas de GitHub
 
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=NicolasKorzusehec&show_icons=true&count_private=true&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
+[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=NicolasKorzusehec&show_icons=true&count_private=true&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)-->
 
 ## Conéctate conmigo
 
 ¡Estoy siempre abierto a nuevas oportunidades y colaboraciones! Puedes encontrarme en:
 
-- 📞 Teléfono: (+54 9) 11 3577-7596
-- ✉️ Correo electrónico: [nkorzusehec@gmail.com](mailto:nkorzusehec@gmail.com)
+- [nkorzusehec@gmail.com](mailto:nkorzusehec@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/NicolasKorzusehec)
 
 ## ¡Gracias por visitar!
 
-¡Gracias por tomarte el tiempo para explorar mi perfil! Si tienes alguna pregunta, sugerencia o simplemente quieres charlar, no dudes en ponerte en contacto conmigo. 😊
-
+¡Estoy abierto a nuevas oportunidades y colaboraciones! 😊
 
 
 <!--
